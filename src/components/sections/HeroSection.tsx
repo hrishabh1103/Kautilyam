@@ -42,7 +42,7 @@ export const HeroSection = () => {
             <Link href="#demo" className="inline-flex items-center justify-center px-8 py-4 text-base font-medium text-[#05070d] bg-[#00f5ff] rounded-md hover:bg-[#00f5ff]/90 transition-colors shadow-[0_0_20px_rgba(0,245,255,0.4)]">
               Request Kautilyam Demo
             </Link>
-            <Link href="#" className="inline-flex items-center justify-center px-8 py-4 text-base font-medium text-white bg-white/5 border border-white/10 rounded-md hover:bg-white/10 transition-colors backdrop-blur-sm">
+            <Link href="http://127.0.0.1:8000" className="inline-flex items-center justify-center px-8 py-4 text-base font-medium text-white bg-white/5 border border-white/10 rounded-md hover:bg-white/10 transition-colors backdrop-blur-sm">
               Try Zylar Lite <ChevronRight className="w-4 h-4 ml-2" />
             </Link>
           </div>

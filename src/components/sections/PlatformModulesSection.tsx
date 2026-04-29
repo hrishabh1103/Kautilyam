@@ -41,7 +41,7 @@ export const PlatformModulesSection = () => {
                 Real-time Detection Logs
               </li>
             </ul>
-            <Link href="#" className="inline-flex items-center text-[#00f5ff] hover:text-[#00f5ff]/80 font-medium relative z-10">
+            <Link href="http://127.0.0.1:8000" className="inline-flex items-center text-[#00f5ff] hover:text-[#00f5ff]/80 font-medium relative z-10">
               Try Zylar Lite <ExternalLink className="w-4 h-4 ml-2" />
             </Link>
           </AnimatedCard>
